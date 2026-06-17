@@ -1,0 +1,19 @@
+Speech Emotion Recognition - Classification Report
+==================================================
+Model Type: MLP Neural Network (Scikit-Learn Fallback)
+Test Accuracy: 0.6285
+
+              precision    recall  f1-score   support
+
+       angry       0.76      0.68      0.72        38
+        calm       0.65      0.74      0.69        38
+     disgust       0.64      0.66      0.65        38
+     fearful       0.53      0.72      0.61        39
+       happy       0.61      0.51      0.56        39
+     neutral       0.41      0.47      0.44        19
+         sad       0.63      0.58      0.60        38
+   surprised       0.79      0.59      0.68        39
+
+    accuracy                           0.63       288
+   macro avg       0.63      0.62      0.62       288
+weighted avg       0.64      0.63      0.63       288
