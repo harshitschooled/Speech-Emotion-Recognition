@@ -137,7 +137,7 @@ The classification model processes a 180-dimensional feature vector reshaped to 
 ---
 
 ## 👨‍🎓 B.Tech Project Group Details
-This project was developed by a team of 5 students over two semesters:
+This project was developed by a team of 5 students :
 - **Data Engineer**: Dataset gathering and pipeline caching.
 - **Signal Analyst**: Audio digital signal processing (DSP) and extraction.
 - **ML Researcher**: Exploratory data analysis and model design.
